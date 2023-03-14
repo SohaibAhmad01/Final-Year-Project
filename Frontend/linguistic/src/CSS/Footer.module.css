@@ -1,0 +1,66 @@
+.head{
+    color:white;
+    line-height: 1.6;
+    font-family: 'Raleway';
+}
+#box{
+    z-index: 9;
+    margin-left: 400px; 
+    width:700px;
+    height:100px;
+    margin-top: 20px;       
+}
+#G1{
+    background-color:#5c85d6;  
+}
+#G2{
+    background-color: #5c85d6;
+    align-items: center;
+}
+#Allg{
+    margin-top: 20px;  
+    color: white;
+}
+
+#container{
+    position: relative; 
+    background-image: url("../Images/background.jpg");
+}
+#bigbox{
+    width: 1500px;
+    height: 250px;            
+    position: absolute;
+    opacity: 1;  /* for demo purpose  */
+    margin-top: 90px;
+    background-color:#505050;
+    
+}
+#p1{
+    font-family: 'Raleway';
+    font-size: large;
+    
+    color:white
+}
+#p2{
+    font-family: 'Raleway';
+    font-size: 14px;
+    opacity: 0.8;
+
+}
+#desc{
+    color: white;
+    font-family: 'Raleway';
+    margin-left: 30px;
+}
+.h1{
+    margin-left: 59px;
+}
+
+.con{
+    margin-right: 50px;
+}
+#btn{
+    width: 150px;
+    align-items: center;
+    margin-left: 30px;
+}

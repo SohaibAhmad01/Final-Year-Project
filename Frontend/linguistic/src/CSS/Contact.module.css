@@ -1,0 +1,78 @@
+.top{
+    background-image: url("../Images/background.jpg");
+}
+.contact{
+    margin-left:550px;
+    font-family: 'Raleway';
+    font-size: 40px;
+}
+
+.we{
+    margin-left: 420px;
+    font-family: 'Raleway';
+
+}
+#main{
+    height: 400px;
+}
+#grid{
+    width: 480px;
+    height: 400px;
+    margin-left: 200px;
+    background-color: #505050;
+    color:white;
+    font-family: 'Raleway';
+    border-radius: 30px;
+}
+#heading1{
+    font-family: 'Raleway';
+    font-size: 22px;
+    margin-top: 15px;
+    margin-left: 47px;
+    color: white;
+}
+.textarea{
+    width: 350px;
+    height: 180px;
+    border-radius: 20px;
+}
+#feild{
+    width: 350px;
+    height: 30px;
+    border-radius: 50px;
+}
+.form{
+    margin-left: 50px;
+}
+.btn{
+    width: 120px;
+    height: 35px;
+    background-color: tomato;
+    color: white;
+    border-radius: 10px;
+    margin-left: 220px;
+
+}
+a{
+    color: white;
+    display: inline-block;
+    margin-left: 30px;
+}
+i{
+    display:inline-block;
+}
+#card2{
+    
+    width: 450px;
+    background-color: #505050;
+    color: white;
+    border-radius: 10px;
+}
+.image{
+    border-radius: 70px;
+    margin-left: 70px;
+    border: 3px solid #505050;
+}
+#all{
+    margin-left: 0px;
+}

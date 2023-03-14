@@ -1,0 +1,57 @@
+
+.grad{
+    background-image: url("../Images/background.jpg");
+    margin-top: 15px;
+}
+
+
+#card{
+    width: 450px;
+    height: 450px;
+    margin-left: 200px;
+    margin-top: 30px;
+    background-color: #505050;
+    color: white;
+    border-radius: 30px;
+    box-shadow: 4px 4px brown;
+}
+#card2{
+    width: 450px;
+    height: 450px;
+    margin-left: 200px;
+    margin-top: 30px;
+    background-color: #505050;
+    color: white;
+    border-radius: 30px;
+    box-shadow: 4px 4px blue;
+
+}
+#subheading{
+    font-family: 'Raleway';
+    margin-left: 40px;
+    font-size: 18px;
+    color: white;
+}
+.inputs{
+    width: 400px;
+    height: 35px;
+    border-radius: 70px;
+    border: 1px solid;
+    padding: 15px;
+}
+.Button{
+    background-color: black;
+    color: white;
+    border: 1px solid;
+    border-radius: 50px;
+    width: 100px;
+    height: 40px;
+    margin-top: 4px;
+    margin-left: 290px;
+}
+.form{
+    margin-left: 0px;
+}
+#icon{
+    margin-left: 80px;
+}

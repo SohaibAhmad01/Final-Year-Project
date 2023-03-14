@@ -1,0 +1,26 @@
+.icon{
+    display:inline-block;
+    color:white;
+    margin-left: 10px;
+}
+.logo{
+    margin-top: 13px;
+      color:white;
+      font-style: oblique;
+      font-family: 'Raleway';
+      display:inline-block;
+      font-size:24px;
+}
+#item{
+    margin-top: 10px;
+    font-family:'Raleway';
+    padding: 10px;
+    margin-left: 10px;
+    color:white;
+    font-size:17px;    
+}
+#head{
+    background-color:#505050;    
+}
+
+

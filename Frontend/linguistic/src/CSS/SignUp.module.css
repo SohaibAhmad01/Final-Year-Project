@@ -1,0 +1,106 @@
+#maingrid{
+    margin-left: 300px;
+    margin-top: 70px;
+}
+#btntext{
+    color: #000;
+    font-size: medium;
+    font: weight 14px;;
+    margin-right: 25px;
+    
+    
+}
+#pe{
+    opacity: 0.8;
+    font-family: 'Raleway';
+    font-size: 15px;
+}
+#g{
+    font-family: 'Raleway';
+    font-size: 30px;    
+    font-weight:900;
+    margin-top: 5px;
+    margin-left: 100px;
+}
+#one{
+    background-color:#505050;
+    color: white;
+    height: 500px;
+}
+#content{
+    margin-top: 100px;
+    margin-left: 40px;
+}
+#sci{
+    font-family: 'Raleway';
+    font-size: 35px;
+    font-weight: bold;
+}
+#btn2{
+    margin-top: 30px;
+    margin-left: 60px;
+    width: 150px;
+    height: 60px;
+    border-radius: 50px;
+    border: none;
+    background-color:white;
+    color: white;
+    
+}
+#grid2{
+    
+    background-color:orange;
+    height: 500px;
+}
+#h{
+    font-family: 'Raleway';
+    font-size: 30px;
+    font-weight: bold;
+    margin-left: 140px;
+    margin-top: 30px;
+}
+#button{
+    margin-left: 110px;
+    width: 150px;
+    height: 60px;
+    border-radius: 50px;
+    border: none;
+    background-color: white;
+    color: black;
+}
+#q{
+    font-family:'Raleway';
+    font-size: 10;
+    margin-left: 20px;
+}
+#p{
+    opacity: 0.5;
+    margin-left: 130px;
+    padding: 5px;
+
+}
+.icons{
+    margin-left: 70px;
+    
+}
+i{
+    padding-left: 60px;
+    
+}
+#feild{
+    margin-left: 20px;
+    width: 350px;
+    padding: 2px;
+    border-radius: 90px;
+    height: 60px;
+}
+.label{
+    font-family: 'Raleway';
+}
+.body{
+    background-image: url("../Images/background.jpg");
+    position:absolute;
+    width: 1370px;
+    height: 650px;
+    
+}

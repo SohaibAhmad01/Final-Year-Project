@@ -1,0 +1,36 @@
+.item{
+    display: inline-block;
+    margin-left: 15px;
+    color:black;
+    
+}
+.channel {
+
+    margin-left: 55px;
+    font-size:22px;
+    font-style: italic;
+    font-weight: bolder;
+    color: white;
+
+}
+.data {
+    margin-left: 57px;
+    font-size:22px;
+    font-weight: bolder;
+    font-style: italic;
+    color: rgb(255, 255, 255);
+
+}
+.a{
+    color: white;
+    margin-left: 6px;
+    font-size: 17px;
+    font-family:'Raleway';
+}
+
+#head{
+    background-color: #505050;
+    color: white;
+    margin-top: 30px;
+    width: 250px;
+}
